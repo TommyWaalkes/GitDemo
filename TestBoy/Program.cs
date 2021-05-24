@@ -7,8 +7,9 @@ namespace TestBoy
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("I ate an apple for breakfast");
+            Console.WriteLine("I ate an apple for breakfast, I like yogurt as well");
             Console.WriteLine("I want chicken nuggets for lunch");
+
         }
     }
 }
