@@ -8,6 +8,7 @@ namespace TestBoy
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("I ate an apple for breakfast");
+            Console.WriteLine("I want chicken nuggets for lunch");
         }
     }
 }
